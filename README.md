@@ -1,6 +1,6 @@
-# 🐍 100 Days of Python — My Coding Journey
+# 🐍 100 Days of Code The Complete Python Pro Bootcamp — My Coding Journey
 
-Welcome to my **100 Days of Python** learning journey!  
+Welcome to my **100 Days of Code The Complete Python Pro Bootcamp** learning journey!  
 This repository contains daily hands-on projects and exercises based on [Dr. Angela Yu’s Python Bootcamp](https://www.udemy.com/course/100-days-of-code/) on Udemy.
 
 ## 🚀 About Me
